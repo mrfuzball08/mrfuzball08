@@ -1,10 +1,16 @@
-## Hi there 👋
+# HELLO THERE 👋
+## ABOUT ME: 
+### * I LOVE APP DEVELOPMENT AND DATABASES, I LOVE FEDORA LINUX, I LOVE WRITING IN ALL CAPS
+### * I usually develop data analysis, report-oriented apps, I like dashboards and synthesized info for decision making.
+
+### 🌱 Looking forward to learn desktop app/tools development
+
+## I WORK WITH:
+
+[![My Skills](https://skillicons.dev/icons?i=py,nodejs,java,postgres,mysql,docker,vscodium,linux)](https://skillicons.dev)
+
 
 <!--
-**mrfuzball08/mrfuzball08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
