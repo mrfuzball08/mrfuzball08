@@ -1,6 +1,6 @@
 # HELLO THERE 👋
 ## ABOUT ME: 
-### * I LOVE APP DEVELOPMENT AND DATABASES, I LOVE FEDORA LINUX, I LOVE WRITING IN ALL CAPS
+### * I LOVE APP DEVELOPMENT AND DATABASES, I LOVE LINUX, I LOVE WRITING IN ALL CAPS
 ### * I usually develop data analysis, report-oriented apps, I like dashboards and synthesized info for decision making.
 
 ### 🌱 Looking forward to learn desktop app/tools development
