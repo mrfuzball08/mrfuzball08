@@ -1,13 +1,12 @@
 # HELLO THERE 👋
 ## ABOUT ME: 
-### * I LOVE APP DEVELOPMENT AND DATABASES, I LOVE LINUX, I LOVE WRITING IN ALL CAPS
 ### * I usually develop data analysis, report-oriented apps, I like dashboards and synthesized info for decision making.
 
 ### 🌱 Looking forward to learn desktop app/tools development
 
 ## I WORK WITH:
 
-[![My Skills](https://skillicons.dev/icons?i=py,nodejs,java,postgres,mysql,docker,neovim,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,nodejs,css,obsidian,java,postgres,mysql,docker,vscodium,windows,linux)](https://skillicons.dev)
 
 
 <!--
