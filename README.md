@@ -6,7 +6,7 @@
 
 ## I WORK WITH:
 
-[![My Skills](https://skillicons.dev/icons?i=py,nodejs,css,obsidian,java,postgres,mysql,docker,vscodium,windows,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,nodejs,java,css,postgres,mysql,docker,obsidian,vscodium,windows,linux)](https://skillicons.dev)
 
 
 <!--
