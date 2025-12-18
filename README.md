@@ -4,9 +4,16 @@
 
 ### 🌱 Looking forward to learn desktop app/tools development
 
-## I WORK WITH:
+## I work with:
 
-[![My Skills](https://skillicons.dev/icons?i=py,nodejs,java,css,postgres,mysql,docker,obsidian,vscodium,windows,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,nodejs,java,css,postgres,mysql,docker,windows,linux)](https://skillicons.dev)
+
+## Favorite tools:
+<div>
+<img src="https://svg.saasfly.io/library/neovim.svg" alt="Neovim Logo" height="50" width="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Zed_Editor_Logo.png" alt="Zed Code Editor Logo" height="50" width="50">
+<img src="https://dbeaver.com/img/dbeaver-head.png" alt="Dbeaver Logo" height="50" width="50">
+</div>
 
 
 <!--
