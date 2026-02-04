@@ -6,20 +6,18 @@
 
 ## I work with:
 
-[![My Skills](https://skillicons.dev/icons?i=py,nodejs,cs,css,postgres,mysql,git,docker,windows,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,nodejs,css,postgres,mysql,terraform,git,docker,windows,linux,bash)](https://skillicons.dev)
 
 ## Favorite tools:
 <div>
 <img src="https://svg.saasfly.io/library/neovim.svg" alt="Neovim Logo" height="50" width="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Zed_Editor_Logo.png" alt="Zed Code Editor Logo" height="50" width="50">
-<img src="https://dbeaver.com/img/dbeaver-head.png" alt="Dbeaver Logo" height="50" width="50">
-<img src="https://lostpaul.github.io/obsidian-folder-notes/assets/2023_Obsidian_logo.svg.png" alt="Dbeaver Logo" height="50" width="50">
-  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Alacritty_logo.svg/250px-Alacritty_logo.svg.png" alt="Alacritty Logo" height="50" width="50">
+<img src="https://www.pngkey.com/png/full/904-9045616_datagrip-icon-logo-png-transparent-jetbrains-datagrip-datagrip.png" alt="DataGrip Logo" height="50" width="50">
+<img src="https://lostpaul.github.io/obsidian-folder-notes/assets/2023_Obsidian_logo.svg.png" alt="Obsidian Logo" height="50" width="50">
+
 </div>
 
----
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrfuzball08&layout=donut&theme=github_dark)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrfuzball08&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 - 🔭 I’m currently working on ...
