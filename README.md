@@ -12,7 +12,7 @@
 <div>
 <img src="https://svg.saasfly.io/library/neovim.svg" alt="Neovim Logo" height="50" width="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Alacritty_logo.svg/250px-Alacritty_logo.svg.png" alt="Alacritty Logo" height="50" width="50">
-<img src="https://www.pngkey.com/png/full/904-9045616_datagrip-icon-logo-png-transparent-jetbrains-datagrip-datagrip.png" alt="DataGrip Logo" height="50" width="50">
+<img src="https://handwiki.org/wiki/images/thumb/b/b5/DBeaver_logo.svg/800px-DBeaver_logo.svg.png" alt="DBeaver Logo" height="50" width="50">
 <img src="https://lostpaul.github.io/obsidian-folder-notes/assets/2023_Obsidian_logo.svg.png" alt="Obsidian Logo" height="50" width="50">
 
 </div>
