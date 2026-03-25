@@ -7,7 +7,7 @@
 ## I work with:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=astro,svelte,py,django,nodejs,postgres,terraform,git,docker,linux,bash" />
+    <img src="https://skillicons.dev/icons?i=astro,nextjs,react,svelte,py,django,nodejs,postgres,terraform,git,docker,linux,bash" />
   </a>
 </p>  
 
