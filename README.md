@@ -12,7 +12,7 @@
 [![My Skills](https://skillicons.dev/icons?i=go,py,nextjs,astro,svelte,django,bun,postgres,docker,aws,terraform,bash,linux,obsidian,&perline=6)](https://skillicons.dev)
 
 ## Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrfuzball08&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrfuzball08&show_icons=true&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Check my Portfolio:
 <p>
