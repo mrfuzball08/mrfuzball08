@@ -1,31 +1,32 @@
 # HELLO THERE 👋
 ## ABOUT ME: 
-### * I usually develop data analysis, report-oriented apps, I like dashboards and synthesized info for decision making.
+### Junior dev, Currently learning while building
+### Currently working on proprietary lowcode powerplatform applications, TUI apps and a personal data analysis web dashboard 
 
-### Currently working on proprietary powerapps applications and a personal data analysis web dashboard 
+## INTERESTS
+### TUI Apps/ CLI tools
+### Desktop Apps
+### Web dev
 
-## I work with:
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=astro,nextjs,react,svelte,py,django,nodejs,postgres,terraform,git,docker,linux,bash" />
-  </a>
-</p>  
+## Skills:
+[![My Skills](https://skillicons.dev/icons?i=go,py,nextjs,astro,svelte,django,bun,postgres,docker,aws,terraform,bash,linux,obsidian,&perline=6)](https://skillicons.dev)
 
-## Favorite tools:
-<div align="center">
-<img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/antigravity-color.png" alt="Antigravity Logo" height="50" width="50">
-<img src="https://svg.saasfly.io/library/neovim.svg" alt="Neovim Logo" height="50" width="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Alacritty_logo.svg/250px-Alacritty_logo.svg.png" alt="Alacritty Logo" height="50" width="50">
-<img src="https://handwiki.org/wiki/images/thumb/b/b5/DBeaver_logo.svg/800px-DBeaver_logo.svg.png" alt="DBeaver Logo" height="50" width="50">
-<img src="https://lostpaul.github.io/obsidian-folder-notes/assets/2023_Obsidian_logo.svg.png" alt="Obsidian Logo" height="50" width="50">
-</div>
+## Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrfuzball08&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-### My Portfolio:
+### Check my Portfolio:
 <p>
   <a href="https://mrfuzball08.github.io/">
     Check my portfolio here
   </a>
 </p>  
+
+### Connect with me
+<p align="left">
+<a href="https://www.linkedin.com/in/luis-enrique-rodr%C3%ADguez-varela-b96364292/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis-enrique-rodr%c3%adguez-varela" height="40" width="40" /></a>
+</p>
+
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
