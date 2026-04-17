@@ -1,15 +1,15 @@
 # HELLO THERE 👋
 ## ABOUT ME: 
-### Junior dev, Currently learning while building
-### Currently working on proprietary lowcode powerplatform applications, TUI apps and a personal data analysis web dashboard 
+Junior dev, Currently learning while building
+Currently working on proprietary lowcode powerplatform applications, TUI apps and a personal data analysis web dashboard 
 
 ## INTERESTS
-### TUI Apps/ CLI tools
-### Desktop Apps
-### Web dev
+* TUI Apps/ CLI tools
+* Desktop Apps
+* Web dev
 
 ## Skills:
-[![My Skills](https://skillicons.dev/icons?i=go,py,nextjs,astro,svelte,django,bun,postgres,docker,aws,terraform,bash,linux,obsidian,&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,py,nextjs,astro,svelte,django,bun,postgres,docker,aws,terraform,bash,linux,obsidian,&perline=7)](https://skillicons.dev)
 
 ## Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrfuzball08&show_icons=true&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
