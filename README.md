@@ -13,8 +13,8 @@ Currently working on proprietary lowcode powerplatform applications, TUI apps an
 
 ### Check my Portfolio:
 <p>
-  <a href="">
-    Check my portfolio here (will update soon)
+  <a href="https://fuzball-dev-blog.vercel.app/">
+    Check my portfolio here
   </a>
 </p>  
 
